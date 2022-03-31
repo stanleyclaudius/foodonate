@@ -8,15 +8,15 @@ Foodonate merupakan aplikasi pencarian donasi yang berbasis website, dimana terd
 4. Setelah semua dependency ter-*install*, maka ketikkan command `npm run dev` di *root directory* projek ini (folder foodonate) melalui *terminal* yang diinginkan, dan juga ketikkan command `npm start` di dalam folder **client** untuk menjalankan aplikasi.
 
 # Akun Untuk Login Dengan Role Admin
-username: admin
+username: admin <br />
 password: admin1234
 
 # Akun Untuk Login Dengan Role Donatur
-username: donatur1
+username: donatur1 <br />
 password: donatur1@1234
 
 # Akun Untuk Login Dengan Role Pengguna
-username: pengguna1
+username: pengguna1 <br />
 password: pengguna1@1234
 
 # Penggunaan Teknologi Utama
